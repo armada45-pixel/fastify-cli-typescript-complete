@@ -10,7 +10,7 @@ const NODE_ENV: NODE_ENV =
 
 export default fp<fastifyEnvOpt>(async (app) => {
   app.register(fastifyEnv, {
-    // confKey: "config",
+    confKey: "config",
     schema: {
       type: "object",
       required: [
@@ -57,12 +57,15 @@ export default fp<fastifyEnvOpt>(async (app) => {
         },
         MM_Cookie_Name: {
           type: "string",
+          default: "MM",
         },
         domain: {
           type: "string",
+          default: "localhost",
         },
         NODE_ENV: {
           type: "string",
+          default: "development",
         },
       },
     },

@@ -35,12 +35,12 @@ Welcome every one. This is my frist git repositories.:sweat_smile:
 
 ### Dev Dependencies
 
-- [@types/node](https://www.npmjs.com/package/testing "npmjs.com testing")
-- [@types/nodemailer](https://www.npmjs.com/package/testing "npmjs.com testing")
-- [@types/tap](https://www.npmjs.com/package/testing "npmjs.com testing")
-- [concurrently](https://www.npmjs.com/package/testing "npmjs.com testing")
-- [fastify-tsconfig](https://www.npmjs.com/package/testing "npmjs.com testing")
-- [tap](https://www.npmjs.com/package/testing "npmjs.com testing")
-- [ts-node](https://www.npmjs.com/package/testing "npmjs.com testing")
-- [tsc](https://www.npmjs.com/package/testing "npmjs.com testing")
-- [typescript](https://www.npmjs.com/package/testing "npmjs.com testing")
+- [@types/node](https://www.npmjs.com/package/@types/node "npmjs.com @types/node")
+- [@types/nodemailer](https://www.npmjs.com/package/@types/nodemailer "npmjs.com @types/nodemailer")
+- [@types/tap](https://www.npmjs.com/package/@types/tap "npmjs.com @types/tap")
+- [concurrently](https://www.npmjs.com/package/concurrently "npmjs.com concurrently")
+- [fastify-tsconfig](https://www.npmjs.com/package/fastify-tsconfig "npmjs.com fastify-tsconfig")
+- [tap](https://www.npmjs.com/package/tap "npmjs.com tap")
+- [ts-node](https://www.npmjs.com/package/ts-node "npmjs.com ts-node")
+- [tsc](https://www.npmjs.com/package/tsc "npmjs.com tsc")
+- [typescript](https://www.npmjs.com/package/typescript "npmjs.com typescript")

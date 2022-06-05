@@ -8,7 +8,7 @@ Welcome every one. This is my frist git repositories.:sweat_smile:
 - [@fastify/cookie](https://www.npmjs.com/package/@fastify/cookie "npmjs.com @fastify/cookie")
 - [@fastify/cors](https://www.npmjs.com/package/@fastify/cors "npmjs.com @fastify/cors")
 - [@fastify/csrf-protection](https://www.npmjs.com/package/@fastify/csrf-protection "npmjs.com @fastify/csrf-protection")
-- ~~[@fastify/env](https://www.npmjs.com/package/@fastify/env "npmjs.com @fastify/env")~~
+- [@fastify/env](https://www.npmjs.com/package/@fastify/env "npmjs.com @fastify/env")
 - [@fastify/helmet](https://www.npmjs.com/package/@fastify/helmet "npmjs.com @fastify/helmet")
 - [@fastify/jwt](https://www.npmjs.com/package/@fastify/jwt "npmjs.com @fastify/jwt")
 - [@fastify/rate-limit](https://www.npmjs.com/package/@fastify/rate-limit "npmjs.com @fastify/rate-limit")

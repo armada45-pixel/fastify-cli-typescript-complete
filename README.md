@@ -37,6 +37,7 @@ Welcome every one. This is my frist git repositories.:sweat_smile:
 
 - [@types/node](https://www.npmjs.com/package/@types/node "npmjs.com @types/node")
 - ~~[@types/nodemailer](https://www.npmjs.com/package/@types/nodemailer "npmjs.com @types/nodemailer")~~
+- [@types/ws](https://www.npmjs.com/package/@types/ws "npmjs.com @types/ws")
 - [@types/tap](https://www.npmjs.com/package/@types/tap "npmjs.com @types/tap")
 - [concurrently](https://www.npmjs.com/package/concurrently "npmjs.com concurrently")
 - [fastify-tsconfig](https://www.npmjs.com/package/fastify-tsconfig "npmjs.com fastify-tsconfig")
